@@ -1,1 +1,3 @@
-# sample
+# My Weather API Project
+
+Here's how to run my project... 
